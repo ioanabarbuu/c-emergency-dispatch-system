@@ -1,0 +1,5 @@
+emergency_dispatch
+*.o
+*.out
+tema1.out
+.DS_Store
